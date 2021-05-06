@@ -48,7 +48,7 @@
     "envify": "^3.4.0",
     "glob": "^6.0.1",
     "graceful-fs": "^4.2.3",
-    "handlebars": "^4.7.3",
+    "handlebars": "^4.7.7",
     "isbinaryfile": "^3.0.0",
     "junk": "^2.0.0",
     "merge": "^1.2.0",
